@@ -13,3 +13,7 @@ I found this article interesting since it presents both the good and evil involv
 ## Dana's Opinion
 
 This article brings up a very good point in the development of today's technological advancements. On one hand, the development of such technology and its various features on platforms can be very exciting, especially for consumers. However, what people don't often consider is the politics of the corporations behind the scenes of these technologies.
+
+## Yoshiaki's Opinion
+
+The fact that despite lawyers Barclay (the author) consulted from Columbia University and the U.K. all seemed to agree that the cease-and-desist letter was outrageous, yet Barclay couldn't take on the risk of losing a law suit against a trillion dollar company and had to concede worries me. The egregious wealth gap in today's society seems to contribute to many injustices around the world, where tech monopolies are allowed to act unconstitutionally all because they instill fear on those without money. I fear true freedom on the internet is then taken away from us civilians, as we have no way to defend ourselves if mamoth privatized institutions like Facebook (that also happen to control a lot of the fiber optic cables in the U.S.) just decide that we aren't allowed to do something. 
